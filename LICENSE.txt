@@ -1,0 +1,24 @@
+Licença MIT
+
+Copyright (c) 2025 screm1x666yf
+
+Por meio deste, é concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
+deste software e dos arquivos de documentação associados (o "Software"), para tratar
+o Software sem restrições, incluindo, sem limitação, os direitos
+de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender
+cópias do Software, e para permitir que pessoas a quem o Software seja
+fornecido façam o mesmo, sujeito às seguintes condições:
+
+O aviso de copyright acima e esta permissão devem ser incluídos em todas
+as cópias ou porções substanciais do Software.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIABILIDADE,
+ADEQUAÇÃO A UM DETERMINADO FIM E NÃO INFRAÇÃO. EM NENHUM CASO OS
+AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANO OU OUTRA
+RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, DELITO OU OUTRO, DECORRENTE DE,
+OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO
+SOFTWARE.
+
+**Aviso Legal:**
+Este software foi criado com fins educacionais. O autor não se responsabiliza por qualquer uso ilegal ou malicioso do programa. O uso do software é de inteira responsabilidade do usuário.
