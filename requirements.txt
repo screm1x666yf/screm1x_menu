@@ -1,5 +1,3 @@
-smtplib
-time
 Pillow==10.4.0
 fractions
 re
