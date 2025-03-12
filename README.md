@@ -21,6 +21,7 @@ Este projeto contém uma coleção de ferramentas úteis que podem ser executada
 Certifique-se de que o `requirements.txt` seja instalado corretamente para que o programa funcione sem erros. Execute o seguinte comando no Termux para instalar as dependências:
 
 ```bash
+pkg install libjpeg-turbo
 git clone https://github.com/screm1x666yf/screm1x_menu.git
 cd screm1x_menu
 python3 consultas.py
