@@ -1,3 +1,18 @@
+import os
+import sys
+import subprocess
+
+required_packages = ["requests", "beautifulsoup4", "pillow"]
+
+for package in required_packages:
+    try:
+        __import__(package)
+    except ImportError:
+        print(f"Instalando {package}...")
+        subprocess.run([sys.executable, "-m", "pip", "install", package])
+
+print("Todas as dependências foram verificadas e instaladas.")
+
 import requests
 from bs4 import BeautifulSoup
 import smtplib
