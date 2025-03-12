@@ -23,5 +23,5 @@ Certifique-se de que o `requirements.txt` seja instalado corretamente para que o
 ```bash
 git clone https://github.com/screm1x666yf/screm1x_menu.git
 cd screm1x_menu
-python3 consulta.py
+python3 consultas.py
 
